@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kartikey-j;
+- 👋 Hi, I’m @Kartikey Joshi;
 - 👀 I’m interested in Web development;
 - 🌱 I’m currently learning Javascript;
 - 💞️ I’m looking to collaborate on web development projects;
